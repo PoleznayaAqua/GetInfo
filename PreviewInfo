@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Root>
-  <child name = "aaa">
+  <child Type = "aaa">
     <description>фыафыафыафыафаы</description>
     <previewImage>https://pbs.twimg.com/media/DxRtKKNXQAAMDfB.jpg</previewImage>
     <backgroundImage>https://proprikol.ru/wp-content/uploads/2020/07/kartinki-zimnij-vecher-55.jpg</backgroundImage>
