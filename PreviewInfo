@@ -1,7 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
 <root>
   <child>
     <name>aaa</name>
     <description>фыафыафыафыафаы</description>
+    <previewImage>https://pbs.twimg.com/media/DxRtKKNXQAAMDfB.jpg</previewImage>
     <backgroundImage>https://proprikol.ru/wp-content/uploads/2020/07/kartinki-zimnij-vecher-55.jpg</backgroundImage>
   </child>
 </root>
